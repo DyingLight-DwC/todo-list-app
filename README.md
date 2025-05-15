@@ -27,4 +27,4 @@
 ## 部署说明
 
 此项目已部署到GitHub Pages，可通过以下链接访问：
-[查看演示](https://[你的GitHub用户名].github.io/[仓库名]/)
+[查看演示](https://DyingLight-DwC.github.io/todo-list-app/)
